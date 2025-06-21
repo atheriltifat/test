@@ -1,4 +1,4 @@
-services:
+services11233:
   service-registry:
     image: service-registry:latest
     build:
